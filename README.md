@@ -22,7 +22,7 @@ Please share this Repository within your developer community, if you think that 
 ## About the Author
 ### Sahan Serasinghe
 - Blogs at [sahansera.dev](https://sahansera.dev/)
-- Twitter - [sahan91](https://www.twitter.com/sahan91)
+- Twitter - [_SahanSera](https://www.twitter.com/_SahanSera)
 - Linkedin - [Sahan Serasinghe](https://www.linkedin.com/in/sahanserasinghe/)
 
 ## Contributing
